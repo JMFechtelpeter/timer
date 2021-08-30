@@ -5,7 +5,7 @@ import setuptools
 
 setuptools.setup(
     name='timer',
-    version='1.0.0',
+    version='0.1',
     author='Janik Fechtelpeter',
     author_email='janik.fechtelpeter@zi-mannheim.de',
     description='Conveniently time python commands',
