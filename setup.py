@@ -17,5 +17,5 @@ setuptools.setup(
     # },
     license='MIT',
     packages=['timer'],
-    install_requires=['numpy', 'time'],
+    install_requires=['numpy'],
 )
